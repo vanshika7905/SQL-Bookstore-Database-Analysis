@@ -1,4 +1,6 @@
-[Orders.csv](https://github.com/user-attachments/files/23688636/Orders.csv)[Customers.csv](https://github.com/user-attachments/files/23688633/Customers.csv)📚 Bookstore Database SQL Queries
+📚 Bookstore Database SQL Queries
+
+[Bookstore Database Analysis.pdf](https://github.com/user-attachments/files/23688663/Bookstore.Database.Analysis.pdf)
 
 This repository contains a Bookstore Database project where I worked with Books, Customers, and Orders tables and wrote 20 SQL queries to explore and analyze the data.
 
